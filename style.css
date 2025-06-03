@@ -1,0 +1,48 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f8fb;
+  color: #333;
+}
+
+/* Navbar */
+nav {
+  background-color: #004080;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Banner */
+.banner {
+  background-color: #0059b3;
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+.banner p {
+  font-size: 1.2rem;
+}
+
+/* Courses Section */
+.courses {
+  display: grid;
+  grid-template
